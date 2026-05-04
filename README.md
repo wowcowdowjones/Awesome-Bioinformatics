@@ -80,7 +80,7 @@ Package suites gather software packages and installation tools for specific lang
 
 ## Protein Function & Drug Discovery
 
-* __[ProteinFP](https://github.com/wowcowdowjones/proteinFP2)__ - Give it a UniProt ID; get back active sites, druggable pockets, EC classification, GO terms, PPI partners, therapy modality recommendations, and evolved drug candidate molecules — for any protein, any organism. [ __[PyPI](https://pypi.org/project/proteinfp/)__ ]
+* __[ProteinFP](https://github.com/wowcowdowjones/proteinFP2)__ - Give it a UniProt ID; get back active sites, druggable pockets, EC classification, GO terms, PPI partners, therapy modality recommendations, and evolved drug candidate molecules, for any protein, any organism. [ __[PyPI](https://pypi.org/project/proteinfp/)__ ]
 
 ## Data Tools
 
