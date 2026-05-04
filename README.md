@@ -9,6 +9,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 ## Table of Contents
 
 - [Package suites](#package-suites)
+- [Protein Function & Drug Discovery](#protein-function--drug-discovery)
 - [Data Tools](#data-tools)
   - [Downloading](#downloading)
   - [Compressing](#compressing)
