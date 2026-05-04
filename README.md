@@ -80,11 +80,21 @@ Package suites gather software packages and installation tools for specific lang
 
 ## Protein Function & Drug Discovery
 
+## Protein Function & Drug Discovery
+
 * __[ProteinFP](https://github.com/wowcowdowjones/proteinFP2)__ - 
-  End-to-end protein function prediction and drug candidate design. 
-  Give it a UniProt ID, get back active sites, druggable pockets, 
-  EC classification, GO terms, PPI partners, and evolved drug 
-  candidate molecules. [ [PyPI](https://pypi.org/project/proteinfp/) ]
+  End-to-end protein function prediction and drug candidate design from 
+  a single UniProt ID. Runs 13+ modules covering AlphaFold structure 
+  retrieval, druggable pocket detection, allosteric site prediction, 
+  EC classification (~97% accuracy), GO term prediction, Foldseek 
+  structural analogs, PPI partners (STRING DB), and ESM-2 language 
+  model embeddings. Includes a therapy modality decision engine 
+  (small molecule / antibody / PROTAC / allosteric), de novo drug 
+  candidate generation via AutoDock Vina + RDKit, molecular dynamics 
+  (OpenMM), and a disease-aware GRN/scRNA-seq simulation pipeline 
+  with pharmacological scoring (efficacy, selectivity, resistance risk). 
+  Works on any protein from any organism.
+  [ __[PyPI](https://pypi.org/project/proteinfp/)__ ]
 
 ## Data Tools
 
