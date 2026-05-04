@@ -78,6 +78,14 @@ Package suites gather software packages and installation tools for specific lang
 - **[Biocaml](https://github.com/biocaml/biocaml)** - Biocaml aims to be a high-performance user-friendly library for Bioinformatics.
 - **[Biojava](https://github.com/biojava/biojava)** - Java framework for processing biological data.
 
+## Protein Function & Drug Discovery
+
+* __[ProteinFP](https://github.com/wowcowdowjones/proteinFP2)__ - 
+  End-to-end protein function prediction and drug candidate design. 
+  Give it a UniProt ID, get back active sites, druggable pockets, 
+  EC classification, GO terms, PPI partners, and evolved drug 
+  candidate molecules. [ [PyPI](https://pypi.org/project/proteinfp/) ]
+
 ## Data Tools
 
 ### Downloading
